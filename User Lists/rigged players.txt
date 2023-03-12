@@ -1,2 +1,3 @@
 RiskyKen|100|200
 Rackshaw|-100|0
+Trap Haven|100|200
